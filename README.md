@@ -2,7 +2,7 @@
 Technologies: AWS, Cross-Platform (Android, iOS, Windows, Mac, Linux, Web), MS SQL Server,
 MySQL, SQLite, MongoDB, REST API
 •Developed and deployed a cloud-based, cross-platform location analytics application supporting
-Android, iOS, desktop, and browsers, leveraging AWS for deployment scalability and data resilience./n
+Android, iOS, desktop, and browsers, leveraging AWS for deployment scalability and data resilience.\n
 •Integrated interactive maps that display tower locations and allow users to search by Tower ID or
 visualize all towers within a user-defined radius, with geospatial queries for accurate filtering and
 display.
